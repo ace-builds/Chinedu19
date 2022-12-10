@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Chinedu19
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Robotics and Advanced Web development(Single Page Applications)
-- 👨‍💻 I am a full stack developer well verse in Python, Javascript and Java (looking to add PHP as I only know a bit)
-- 🌱 I’m currently learning Angular
+- 👋 Hi, I’m Augustine
+- 👀 I’m an Advanced Frontend Web developer (Dummy Master in REACT)
+- 👨‍💻 Well versed in Javascript, Python and Java (looking to add PHP as I only know a bit)
 - 💞️ I’m looking to collaborate with other developers and companies in building Advanced technologies in the field of Robotics and Web development
 - 📫 How to reach me chineduezeh19@gmail.com
 
