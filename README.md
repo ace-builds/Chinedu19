@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Augustine
-- 👀 I’m a Frontend Web & Mobile App developer (React-dom & React native)
+- 👀 I’m a Frontend Web & Mobile App developer (React & React native)
 - 👨‍💻 Versed in Javascript.
 - 💞️ Looking to collaborate with other developers and companies in building Tools that shape the future.
 - Technologies & Tools I use regularly includes:
